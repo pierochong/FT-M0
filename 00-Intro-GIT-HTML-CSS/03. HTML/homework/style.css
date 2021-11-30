@@ -1,0 +1,25 @@
+h1{
+    background-color: blue;
+    text-align: center;
+}
+
+#spanId{
+    font-size: 18px; margin: 50px;
+    text-align: center;
+}
+.backgroundblue{
+    background-color: blue;
+}
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background-color: green;
+    padding: 50px; border: green;
+    text-align: center;
+    border: 2px solid red;
+}
+img{
+    width: 400px;
+}
+
+

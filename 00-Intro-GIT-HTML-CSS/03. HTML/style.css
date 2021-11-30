@@ -1,0 +1,12 @@
+h1{
+    border: 2px solid black;
+}
+h2{
+    border: 2px solid red;
+}
+#bordeRojo{
+    border: 2 px solid green;
+}
+.backgroundblue{
+    background-color: blue;
+}
